@@ -6,7 +6,10 @@ En la sección de Contacto el usuario puede registrar un mensaje de contacto que
 
 El proyecto esta siendo desarrollado en marco del programa bootcamp web FUll Stack Developer de la Universidad del Desarrollo.
 
-VER ONLINE:https://magenta-pika-87aacb.netlify.app/
+VER ONLINE:
+https://magenta-pika-87aacb.netlify.app
+
+PD: Al parecer no se puede visualizar en netlify.
 
 
 Dependencias:
