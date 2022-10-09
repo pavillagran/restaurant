@@ -4,6 +4,10 @@ El proyecto tiene como objetivo que el usuario de la aplicación pueda navegar e
 
 En la sección de Contacto el usuario puede registrar un mensaje de contacto que se almacena en una base de datos en Firebase.
 
+Se utilizó BrowserRouter para hacer las rutas para diferentes secciones dentro de la aplicación.
+
+Se trabajó la vista en móviles para que sea responsivo.
+
 El proyecto esta siendo desarrollado en marco del programa bootcamp web FUll Stack Developer de la Universidad del Desarrollo.
 
 VER ONLINE:
