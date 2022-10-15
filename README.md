@@ -1,3 +1,31 @@
+PROYECTO APP WEB RESTAURANTE EN  REACT JS, con HTML5, BOOTSTRAP, CSS, y conexión a FIREBASE. 
+
+El proyecto tiene como objetivo que el usuario de la aplicación pueda navegar en un sitio del restaurante "el campestre", ingresar a una seccion principal, a una sección de Contacto con un formulario, y otra sección con información del restaurante, su ubicación y correo de contacto.
+
+En la sección de Contacto el usuario puede registrar un mensaje de contacto que se almacena en una base de datos en Firebase.
+
+Se utilizó BrowserRouter para hacer las rutas para diferentes secciones dentro de la aplicación.
+
+Se trabajó la vista en móviles para que sea responsivo.
+
+El proyecto esta siendo desarrollado en marco del programa bootcamp web FUll Stack Developer de la Universidad del Desarrollo.
+
+VER ONLINE:
+https://magenta-pika-87aacb.netlify.app
+
+PD: Al parecer no se puede visualizar en netlify.
+
+
+Dependencias:
+firebase
+react
+react-dom
+
+
+
+Pablo Villagrán Placencia.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
