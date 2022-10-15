@@ -1,6 +1,5 @@
 import './App.css';
 import { Routes, Route } from 'react-router-dom'
-
 import Inicio from './pages/Inicio'
 import Menu from './pages/Menu'
 import Contacto from './pages/Contacto'
